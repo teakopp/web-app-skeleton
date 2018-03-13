@@ -1,0 +1,24 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "A server for a webapp",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teakopp/Atomic.git"
+  },
+  "author": "teakopp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/teakopp/web-app-skeleton/issues"
+  },
+  "homepage": "https://github.com/teakopp/web-app-skeleton#readme",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "mongodb": "^3.0.4"
+  }
+}
